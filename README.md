@@ -1,5 +1,3 @@
-![LearnRstats](./images/learnrstats.jpg)
-
 # CodeHub - By Olivier Simard-Casanova
 
 [<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://osc.ac/en/codehub/#/portal)
